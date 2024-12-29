@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668732851913",
+    "project_id": "barangayputatan-3d56b",
+    "storage_bucket": "barangayputatan-3d56b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668732851913:android:4025ba8ed83a71bf11af18",
+        "android_client_info": {
+          "package_name": "com.example.putatanapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJs3IXfrzwqdaiFkYTrfXjanKDj1Z1TDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668732851913:android:75caf9a1e6a513e611af18",
+        "android_client_info": {
+          "package_name": "com.putatanapk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJs3IXfrzwqdaiFkYTrfXjanKDj1Z1TDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
